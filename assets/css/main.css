@@ -1,0 +1,12 @@
+.opacity {
+	opacity: 0.9;
+	margin-top: 80px;
+	border-radius: 100px;
+}
+
+
+.bg-login {
+	background-image: url("http://localhost/SI-peminjaman/assets/img/BACKGROUND1.jpg");
+	background-repeat: no-repeat;
+	background-position: center center;
+}
